@@ -1,0 +1,1 @@
+A data analysis and visualization project built with Python and Streamlit that explores Olympic Games history — including medal tallies, country performance, athlete statistics, and gender participation trends.
