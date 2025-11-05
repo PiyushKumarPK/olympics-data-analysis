@@ -11,4 +11,4 @@ It allows users to visually analyze how the Olympics have evolved — from the n
 
 <p>Understand athlete-wise insights, including age distribution, height vs weight, and male vs female participation trends.</p>
 
-<p>The goal of this project is to transform raw Olympic data into meaningful insights and visual stories</p>
+<p>The goal of this project is to transform raw Olympic data into meaningful insights and visual stories.</p>
